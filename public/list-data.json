@@ -1,0 +1,36 @@
+[
+  {
+    "name": "first list",
+    "listItems": [
+      {
+        "item": "check the mail",
+        "completed": true
+      },
+      {
+        "item": "do some gardening",
+        "completed": true
+      },
+      {
+        "item": "do the dishes",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "Second list",
+    "listItems": [
+      {
+        "item": "Have a shower",
+        "completed": true
+      },
+      {
+        "item": "Eat breakfast",
+        "completed": false
+      },
+      {
+        "item": "Take puppy for a walk",
+        "completed": true
+      }
+    ]
+  }
+]

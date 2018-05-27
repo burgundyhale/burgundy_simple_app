@@ -1,0 +1,10 @@
+{
+  "locale": "en-us",
+  "messages": {
+    "simple.app.title": "Simple List",
+    "simple.app.add.list": "Add a new list",
+    "simple.app.add": "Add new item",
+    "simple.app.edit": "Edit",
+    "simple.app.delete": "Delete"
+  }
+}
